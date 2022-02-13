@@ -642,7 +642,7 @@ width: 440px;
   }
 
   .toggle{
-    background: url(/assets/play.svg) center;
+    background: url(assets/play.svg) center;
     margin: 0 0 0 30px;
     width: 45px;
     height: 40px;
@@ -657,7 +657,7 @@ width: 440px;
   }
 
   .fullscreen{
-    background: url(/assets/fullscreen.svg) center;
+    background: url(assets/fullscreen.svg) center;
     width: 45px;
     height: 40px;
     background-repeat: no-repeat;
