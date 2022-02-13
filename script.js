@@ -129,11 +129,11 @@ function togglePlay() {
 }
 
 function updateButtonPlay() {
-  toggle.style.backgroundImage = 'url(/assets/pause.svg)'
+  toggle.style.backgroundImage = 'url(assets/pause.svg)'
 }
 
 function updateButtonPause() {
-  toggle.style.backgroundImage = 'url(/assets/play.svg)'
+  toggle.style.backgroundImage = 'url(assets/play.svg)'
 }
 
 let currentVolume;
